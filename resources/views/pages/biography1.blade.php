@@ -23,7 +23,7 @@
  
     <div class="col-lg-6">
             <div class="card mb-3">
-                <a href="#!"><img style="width:100%; height:340px" src="images/david2.jpg"></a>
+                <a href="#!"><img style="width:100%; height:340px" src="images/DAVID2.jpg"></a>
              
             </div>
         </div>
