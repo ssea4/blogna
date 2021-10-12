@@ -1,39 +1,22 @@
-@extends('layouts.app')
+
+  @extends('layouts.app')
 
 @section('content')
-<style>
-    .container {
-      background-color: white;
-    }
-  
-    .service__image {
-      height: 500px;
-      width: 100%;
-    }
-  
-    .links__area p a {
-      text-decoration-style: none;
-      font-size: 16px;
-      color: green;
-    }
-  
-    .links__area p a:hover {
-      text-decoration-style: none;
-    }
-  </style>
-  
-  <div class="container service__header">
+ 
+  <div >
+    
     <div class="row">
       <div class="col">
-        <img src="/static/images/infrastructure.jpg" alt="" class="service__image">
+        <img class="card-img-top" src="images/infrastructure.jpg" alt="" class="service__image" style="width: 100%; height:500px">
       </div>
     </div>
   </div>
-  
+  <br>
+  <br>
   <div class="container service__content">
     <div class="row">
       <div class="col-lg-9 col-md-8 col-sm-12">
-        <h1>INFRASTRUCTURE (ENVIRONMENT, HEALTH, SAFETY, DEVELOPMENT OF
+        <h1 style="color: green">INFRASTRUCTURE (ENVIRONMENT, HEALTH, SAFETY, DEVELOPMENT OF
           ENVIRONMENTAL AND SOCIAL MANAGEMENT SYSTEM AND COMPLIANCE
           MONITORING)</h1>
         <hr>
@@ -56,8 +39,8 @@
           CLENA SUSTAINABLE FUTURE and United Nations’ agencies.</p>
       </div>
   
-      <div class="col-lg-3 col-md-4 col-sm-0 links__area">
-        <h3 class="mt-3 text-success">Quick links</h3>
+      <div class="col-lg-3 col-md-4 col-sm-12 links__area">
+        <h3  style="color: green">Quick links</h3>
         <hr>
         <p><a
           href="https://ssnewsnow.com/opinion-industrialization-is-crucial-for-south-sudans-national-development/">industrialization-is-crucial-for-south-sudans-national-development</a>
@@ -89,32 +72,47 @@
       </p>
       </div>
     </div>
-  
-    <h3 class="text-success related__h3">Related Posts</h3>
-        <hr>
-        <div class="related">
-          <div class="related__posts">
-            <img src="images/Env.jpg" alt="">
-            <h4 class="related__h4">Environment Impact Assessment</h4>
-            <p class="related__p">
-          There is need for environmental impact assessment in the country, audits, monitoring and
-          evaluation to mitigate adverse impacts and enhance...
-            </p> <br>
-            <a href="{% url 'enviprosi' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
-          <div class="related__posts">
-            <img src="images/fores.jpg" alt="">
-            <h4 class="related__h4">Forest conservation</h4>
-            <p class="related__p">
-              We as South Sudan Environmental Advocates (SSEA) love Mother Nature and
-          environmental protection just like the way we...
-            </p>
-            <a href="{% url 'forestryconservation' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
-  
+  <hr>
+<br> <br>
+
+  <div class="container">
+    <h2 style="color: green; margin-right: 200px" >Related Posts</h2>
+    <hr>
+    <br>
+    <br>
+    
+  <div class="row">
+                
+    <!-- Blog post-->
+ 
+    <div class="col-lg-6">
+            <div class="card mb-3">
+                <a href="#!"><img style="width:100%; height:340px" src="images/Env.jpg"></a>
+                <div class="card-body">
+            
+                    <h2 class="card-title">Environment Impact Assessment</h2>
+                    <p class="card-text">  There is need for environmental impact assessment in the country, audits, monitoring and
+                      evaluation to mitigate adverse impacts and enhance...</p>
+                      <a href="/enviprosi" class="related__btn btn btn-success">Read More</a>
+                </div>
+            </div>
         </div>
-  
+        <div class="col-lg-6">
+          <div class="card mb-3">
+              <a href="#!"><img style="width:100%; height:340px" src="images/solar.jpg"></a>
+              <div class="card-body">
+          
+                  <h2 class="card-title">Forest conservation</h2>
+                  <p class="card-text"> We as South Sudan Environmental Advocates (SSEA) love Mother Nature and
+                    environmental protection just like the way we...</p>
+                    <a href="/forestryconservation"class="related__btn btn btn-success">Read More</a>
+              </div>
+          </div>
+      </div>
+   
+
   </div>
+</div>
+
   @endsection
+

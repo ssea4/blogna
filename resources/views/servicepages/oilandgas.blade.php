@@ -1,39 +1,23 @@
-@extends('layouts.app')
+
+
+  @extends('layouts.app')
 
 @section('content')
-<style>
-    .container {
-      background-color: white;
-    }
-  
-    .service__image {
-      height: 500px;
-      width: 100%;
-    }
-  
-    .links__area p a {
-      text-decoration-style: none;
-      font-size: 16px;
-      color: green;
-    }
-  
-    .links__area p a:hover {
-      text-decoration-style: none;
-    }
-  </style>
-  
-  <div class="container service__header">
+ 
+  <div >
+    
     <div class="row">
       <div class="col">
-        <img src="images/Oilandgas.jpg" alt="" class="service__image">
+        <img class="card-img-top" src="images/Oilandgas.jpg" alt="" class="service__image" style="width: 100%; height:500px">
       </div>
     </div>
   </div>
-  
+  <br>
+  <br>
   <div class="container service__content">
     <div class="row">
       <div class="col-lg-9 col-md-8 col-sm-12">
-        <h1>Oil and gas</h1>
+        <h1 style="color: green">Oil and gas</h1>
         <hr>
         <p class="wow bounce">We as South Sudan Environmental Advocates (SSEA) love Mother Nature and
           environmental protection just like the way we value human life. We’re like the other
@@ -57,12 +41,10 @@
           working closely with the government, oil companies and environmental organizations
           like CLENA SUSTAINABLE FUTURE to addressed challenges facing Mother Nature in
           South Sudan.</p>
-  
-        
       </div>
   
-      <div class="col-lg-3 col-md-4 col-sm-0 links__area">
-        <h3 class="mt-3 text-success">Quick links</h3>
+      <div class="col-lg-3 col-md-4 col-sm-12 links__area">
+        <h3  style="color: green">Quick links</h3>
         <hr>
         <p>
           <a href="https://paanluelwel.com/2020/06/09/south-sudans-growing-problem-of-deforestation-and-environmental-degradation/">south-sudans-growing-problem-of-deforestation-and-environmental-degradation/</a>
@@ -93,35 +75,47 @@
         </p>
       </div>
     </div>
-  
-    <div class="row">
-      <div class="col">
-        <h3 class="text-success related__h3">Related Posts</h3>
-        <hr>
-        <div class="related">
-          <div class="related__posts">
-            <img src="/static/images/manufacturing.jpg" alt="">
-            <h4 class="related__h4">Manufacturing Industry</h4>
-            <p class="related__p">
-              We as South Sudan Environmental Advocates (SSEA) love and desire the earth where
-              manufacturing industries are not in conflict with Mother Nature...
-            </p>
-            <a href="{% url 'manufacturingindustry' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
-          <div class="related__posts">
-            <img src="images/mining.jpg" alt="">
-            <h4 class="related__h4">Mining</h4>
-            <p class="related__p">
-              As you are all aware, South Sudan is one of the richest country in natural resources in
-          the Sub-Sahara Africa and the entire Africa as whole. It is also one...
-            </p>
-            <a href="{% url 'mining' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
+  <hr>
+<br> <br>
+
+  <div class="container">
+    <h2 style="color: green; margin-right: 200px" >Related Posts</h2>
+    <hr>
+    <br>
+    <br>
+    
+  <div class="row">
+                
+    <!-- Blog post-->
+ 
+    <div class="col-lg-6">
+            <div class="card mb-3">
+                <a href="#!"><img style="width:100%; height:340px" src="images/manufacturing.jpg"></a>
+                <div class="card-body">
+            
+                    <h2 class="card-title">Manufacturing Industry</h2>
+                    <p class="card-text"> We as South Sudan Environmental Advocates (SSEA) love and desire the earth where
+                      manufacturing industries are not in conflict with Mother Nature...</p>
+                      <a href="/manufacturingindustry" class="related__btn btn btn-success">Read More</a>
+                </div>
+            </div>
         </div>
+        <div class="col-lg-6">
+          <div class="card mb-3">
+              <a href="#!"><img style="width:100%; height:340px" src="images/mining.jpg"></a>
+              <div class="card-body">
+          
+                  <h2 class="card-title">Mining</h2>
+                  <p class="card-text"> As you are all aware, South Sudan is one of the richest country in natural resources in
+                    the Sub-Sahara Africa and the entire Africa as whole. It is also one...</p>
+                    <a href="/mining"class="related__btn btn btn-success">Read More</a>
+              </div>
+          </div>
       </div>
-      </div>
-      
+   
+
   </div>
+</div>
+
   @endsection
+

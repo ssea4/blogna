@@ -1,39 +1,21 @@
 @extends('layouts.app')
 
 @section('content')
-<style>
-    .container {
-      background-color: white;
-    }
-  
-    .service__image {
-      height: 500px;
-      width: 100%;
-    }
-  
-    .links__area p a {
-      text-decoration-style: none;
-      font-size: 16px;
-      color: green;
-    }
-  
-    .links__area p a:hover {
-      text-decoration-style: none;
-    }
-  </style>
-  
-  <div class="container service__header">
+
+  <div >
+    
     <div class="row">
       <div class="col">
-        <img src="/static/images/Env.jpg" alt="" class="service__image">
+        <img class="card-img-top" src="images/Env.jpg" alt="" class="service__image" style="width: 100%; height:500px">
       </div>
     </div>
   </div>
-  
+  <br>
+  <br>
   <div class="container service__content">
     <div class="row">
       <div class="col-lg-9 col-md-8 col-sm-12">
-        <h1>Environmental Management </h1>
+        <h1 style="color: green">Environmental Management</h1>
         <hr>
         <p class="wow bounce"><strong>Environmental Impact Assessment </strong><br>
           There is need for environmental impact assessment in the country, audits, monitoring and
@@ -61,11 +43,10 @@
           SSEA offers environmental compliance consultancy to organizations and corporates. This
           include international treaties that South Sudan is part of and the local compliance requirements
           by the various states in South Sudan.</p>
-          
       </div>
   
-      <div class="col-lg-3 col-md-4 col-sm-0 links__area">
-        <h3 class="mt-3 text-success">Quick links</h3>
+      <div class="col-lg-3 col-md-4 col-sm-12 links__area">
+        <h3  style="color: green">Quick links</h3>
         <hr>
         <p><a
           href="https://ssnewsnow.com/opinion-industrialization-is-crucial-for-south-sudans-national-development/">industrialization-is-crucial-for-south-sudans-national-development</a>
@@ -97,34 +78,49 @@
       </p>
       </div>
     </div>
-  
-    <div class="row">
-      <div class="col">
-        <h3 class="text-success related__h3">Related Posts</h3>
-        <hr>
-        <div class="related">
-          <div class="related__posts">
-            <img src="images/fores.jpg" alt="">
-            <h4 class="related__h4">Forest conservation</h4>
-            <p class="related__p">
-              We as South Sudan Environmental Advocates (SSEA) love Mother Nature and
-          environmental protection just like the way we...
-            </p>
-            <a href="{% url 'forestryconservation' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
-          <div class="related__posts">
-            <img src="images/infrastructure.jpg" alt="">
-            <h4 class="related__h4">Infrastructure</h4>
-            <p class="related__p">
-              As South Sudan Environmental Advocates (SSEA). We appreciate and know that the
-          environmental benefits of infrastructure...
-            </p> <br>
-            <a href="{% url 'infrastructure' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
+  <hr>
+<br> <br>
+
+  <div class="container">
+    <h2 style="color: green; margin-right: 200px" >Related Posts</h2>
+    <hr>
+    <br>
+    <br>
+    
+  <div class="row">
+                
+    <!-- Blog post-->
+ 
+    <div class="col-lg-6">
+            <div class="card mb-3">
+                <a href="#!"><img style="width:100%; height:340px" src="images/fores.jpg"></a>
+                <div class="card-body">
+            
+                    <h2 class="card-title">Forest conservation</h2>
+                    <p class="card-text">  We as South Sudan Environmental Advocates (SSEA) love Mother Nature and
+                      environmental protection just like the way we...</p>
+                      <a href="/forestryconservation" class="related__btn btn btn-success">Read More</a>
+                </div>
+            </div>
         </div>
+        <div class="col-lg-6">
+          <div class="card mb-3">
+              <a href="#!"><img style="width:100%; height:340px" src="images/solar.jpg"></a>
+              <div class="card-body">
+          
+                  <h2 class="card-title">Infrastructure</h2>
+                  <p class="card-text"> As South Sudan Environmental Advocates (SSEA). We appreciate and know that the
+                    environmental benefits of infrastructure...</p>
+                    <a href="/infrastructure"class="related__btn btn btn-success">Read More</a>
+              </div>
+          </div>
       </div>
-      </div>
+   
+
   </div>
+</div>
+
   @endsection
+
+
+ 

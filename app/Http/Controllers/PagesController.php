@@ -82,7 +82,7 @@ class PagesController extends Controller
     }
     public function oilandgas(){
         $title = "This Is Contacts";
-        return view('sevicepages.oilandgas')->with('title', $title);
+        return view('servicepages.oilandgas')->with('title', $title);
     }
     public function solar(){
         $title = "This Is Contacts";
@@ -94,7 +94,7 @@ class PagesController extends Controller
     }
     public function waterbodyprotection(){
         $title = "This Is Contacts";
-        return view('sevicepages.waterbodyprotection')->with('title', $title);
+        return view('servicepages.waterbodyprotection')->with('title', $title);
     }
     public function wildlife(){
         $title = "This Is Contacts";

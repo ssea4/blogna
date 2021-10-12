@@ -22,18 +22,20 @@
     }
   </style>
   
-  <div class="container service__header mt-2">
+  <div >
+    
     <div class="row">
       <div class="col">
-        <img src="images/nature.jpg" alt="" class="service__image">
+        <img class="card-img-top" src="images/nature.jpg" alt="" class="service__image" style="width: 100%; height:500px">
       </div>
     </div>
   </div>
-  
+  <br>
+  <br>
   <div class="container service__content">
     <div class="row">
       <div class="col-lg-9 col-md-8 col-sm-12">
-        <h1>CLIMATE CHANGE AND MITIGATION</h1>
+        <h1 style="color: green">CLIMATE CHANGE AND MITIGATION</h1>
         <hr>
         <p class="">Our aim is to work toward controlling the factors that affect the climate change in the
           world newest country, the Republic of South Sudan. We need to fight and control air, land and water pollutions
@@ -59,7 +61,7 @@
       </div>
   
       <div class="col-lg-3 col-md-4 col-sm-12 links__area">
-        <h3 class="mt-3 text-success">Quick links</h3>
+        <h3  style="color: green">Quick links</h3>
         <hr>
         <p>
           <a href="https://paanluelwel.com/2020/06/09/south-sudans-growing-problem-of-deforestation-and-environmental-degradation/">south-sudans-growing-problem-of-deforestation-and-environmental-degradation/</a>
@@ -90,34 +92,45 @@
         </p>
       </div>
     </div>
-  
-    <div class="row">
-      <div class="col">
-        <h3 class="text-success related__h3">Related Posts</h3>
-        <hr>
-        <div class="related">
-          <div class="related__posts">
-            <img src="images/plant.jpg" alt="">
-            <h4 class="related__h4">Agriculture</h4>
-            <p class="related__p">
-              The importance of agriculture is something that we all know and appreciated as humankind. We
-          know that agriculture is not just only a backbone of the economy
-            </p>
-            <a href="/agri" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
-          <div class="related__posts">
-            <img src="images/cooperate.jpg" alt="">
-            <h4 class="related__h4">corporate sustainability management and planning</h4>
-            <p class="related__p">
-              We as South Sudan Environmental Advocates (SSEA) appreciate and fully understand
-          corporate sustainability and it is part of our...
-            </p> <br>
-            <a href="{% url 'cosumap' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
+  <hr>
+<br> <br>
+  <div class="container">
+    <h2 style="color: green; margin-right: 200px" >Related Posts</h2>
+    <hr>
+    <br>
+    <br>
+    
+  <div class="row">
+                
+    <!-- Blog post-->
+ 
+    <div class="col-lg-6">
+            <div class="card mb-3">
+                <a href="#!"><img style="width:100%" src="images/plant.jpg"></a>
+                <div class="card-body">
+            
+                    <h2 class="card-title">Agriculture</h2>
+                    <p class="card-text">The importance of agriculture is something that we all know and appreciated as humankind. We
+                      know that agriculture is not just only a backbone of the economy</p>
+                      <a href="/agri" class="related__btn btn btn-success">Read More</a>
+                </div>
+            </div>
         </div>
+        <div class="col-lg-6">
+          <div class="card mb-3">
+              <a href="#!"><img style="width:100%; height:340px" src="images/cooperate.jpg"></a>
+              <div class="card-body">
+          
+                  <h2 class="card-title">Corporate Sustainability Management and Planning</h2>
+                  <p class="card-text">We as South Sudan Environmental Advocates (SSEA) appreciate and fully understand
+                    corporate sustainability and it is part of our...</p>
+                    <a href="/cosumap"class="related__btn btn btn-success">Read More</a>
+              </div>
+          </div>
       </div>
-      </div>
+   
+
   </div>
+</div>
+
   @endsection

@@ -37,7 +37,8 @@
               </p>
             </div>
   
-            <iframe width="100%" height="290px" id="gmap_canvas" src="https://maps.google.com/maps?q=Equatoria%20towers%20Juba%20South%20sudan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>         
+            <iframe width="100%" height="290px" id="gmap_canvas" src="https://maps.google.com/maps?q=mobil%20roundabout%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>      
+            
           </div>
   
         </div>

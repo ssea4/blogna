@@ -14,7 +14,7 @@
             <div class="carousel-caption d-none d-md-block">
               <div class="overlay">
                 <h2>Solar Energy has become a major turnover in the lives of many ...</h2>
-                <a href="{% url 'solar' %}" class="btn btn-success">Read More</a>
+                <a href="solar" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -23,7 +23,7 @@
             <div class="carousel-caption d-none d-md-block">
               <div class="overlay">
                 <h2>life full of adventure mitigating close environmental substance</h2>
-                <a href="{% url 'waterbodyprotection' %}" class="btn btn-success">Read More</a>
+                <a href="waterbodyprotection" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -33,7 +33,7 @@
               <div class="overlay">
                 <h2>If we can teach people about wildlife, they will be touched. Share my wildlife with me. Because
                   humans want to save things that they love</h2>
-                <a href="{% url 'wildlife' %}" class="btn btn-success">Read More</a>
+                <a href="wildlife" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@
             <div class="carousel-caption d-none d-md-block">
               <div class="overlay">
                 <h2>Continuous improvement is better than delayed perfection.</h2>
-                <a href="{% url 'manufacturingindustry' %}" class="btn btn-success">Read More</a>
+                <a href="manufacturingindustry" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -52,7 +52,7 @@
             <div class="carousel-caption d-none d-md-block">
               <div class="overlay">
                 <h2>The forest is not a resource for us, it is life itself. It is the only place for us to live.</h2>
-                <a href="{% url 'forestryconservation' %}" class="btn btn-success">Read More</a>
+                <a href="forestryconservation" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -63,7 +63,7 @@
               <div class="overlay">
                 <h2>The mining industry might make wealth and power for a few men and women, but the many would always be
                   smashed and battered beneath its giant treads.</h2>
-                <a href="{% url 'mining' %}" class="btn btn-success">Read More</a>
+                <a href="mining" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -75,7 +75,7 @@
               <div class="overlay">
                 <h2>This “water quotes” collection will inspire you to keep moving towards your goals and dreams no
                   matter what obstacles stand in your path.</h2>
-                <a href="{% url 'waterbodyprotection' %}" class="btn btn-success">Read More</a>
+                <a href="waterbodyprotection" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -86,7 +86,7 @@
               <div class="overlay">
                 <h2>Over the past few years, more and more celebrities have thrown their backing behind environmental
                   issues.</h2>
-                <a href="{% url 'climatechangemitigation' %}" class="btn btn-success">Read More</a>
+                <a href="climatechangemitigation" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -96,7 +96,7 @@
             <div class="carousel-caption d-none d-md-block">
               <div class="overlay">
                 <h2>Let's always take care of our environment.</h2>
-                <a href="{% url 'cosumap' %}" class="btn btn-success">Read More</a>
+                <a href="cosumap" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -107,7 +107,7 @@
               <div class="overlay">
                 <h2>There is need for environmental impact assessment in the country, audits, monitoring and
                   evaluation to mitigate adverse impacts and enhance environmental benefits.</h2>
-                <a href="{% url 'enviprosi' %}" class="btn btn-success">Read More</a>
+                <a href="enviprosi" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@
                 <h2>It is good to realize that if love and peace can prevail on earth, and if we can teach our children
                   to honor nature’s gifts
                   , the joys and beauties of the outdoors will be here forever. </h2>
-                <a href="{% url 'solidwastemanagement' %}" class="btn btn-success">Read More</a>
+                <a href="solidwastemanagement" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -129,7 +129,7 @@
             <div class="carousel-caption d-none d-md-block">
               <div class="overlay">
                 <h2>Manufactured Products is an art that is designed...</h2>
-                <a href="{% url 'manufacturingindustry' %}" class="btn btn-success">Read More..</a>
+                <a href="manufacturingindustry" class="btn btn-success">Read More..</a>
               </div>
             </div>
           </div>
@@ -143,7 +143,7 @@
                 <h2>The distinction between the world of commerce and that of "culture" quickly became the
                   distinction between
                   infrastructure and superstructure, with the former clearly determining the latter.</h2>
-                <a href="{% url 'infrastructure' %}" class="btn btn-success">Read More</a>
+                <a href="infrastructure" class="btn btn-success">Read More</a>
               </div>
             </div>
           </div>
@@ -236,7 +236,7 @@
                       <img src="images/ricardo (1).jpg">
                   </div>
                <h3 class="title">Rickard Sandberg </h3>
-               <h6>CEO & Leading Expert</h6>
+               <h6><b>CEO & Leading Expert</b></h6>
                   <span class="post">Rickard Sandberg was born in 1963 and has a Master Of  Civil Engineering. He has an unique knowledge and more than 34 years experience as a lead environmental manager, including sustainable development, lead manager in development urban planning,  and infrastructure projects. </span>
                   <div class="">
                       <a href="/biography2" class="btn btn-success">Read More</a>
@@ -247,10 +247,10 @@
           <div class="col-md-3 col-sm-6">
               <div class="our-founders">
                   <div class="pic">
-                      <img src="images/Dot1.jpg">
+                      <img src="images/dot1.jpg">
                   </div>
                   <h3 class="title">Philip Dot</h3>
-                  <h6>Vice CEO & Country Director</h6>
+                  <h6><b>Vice CEO & Country Director</b></h6>
                   <span class="post">Philip Ayuen Dot is a South Sudanese environmental scientist and Founder of South Sudan Environmental Advocators (SSEA),BSc Environmental Science, Kenyatta University, Research Project: Valuation of Forest Traded Products December 2016.</span>
                   <div class="">
                     <a href="/biography" class="btn btn-success">Read More</a>
@@ -264,7 +264,7 @@
                       <img src="images/mercy (4).jpg">
                   </div>
                   <h3 class="title">Mercy Mwende</h3>
-                  <h6>Director of Programs & Projects</h6>
+                  <h5><b>Director of Programs & Projects</b></h5>
                   <span class="post">Mercy Mwende Kyalo is a passionate environmentalist, writer and social activist. Mwende has a
 Bachelor’s Degree in Environmental Science from Kenyatta University and is currently pursuing
 a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
@@ -278,10 +278,10 @@ a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
           <div class="col-md-3 col-sm-6">
               <div class="our-founders">
                   <div class="pic">
-                      <img src="images/David2.jpg">
+                      <img src="images/david2.jpg">
                   </div>
                   <h3 class="title">David Beek</h3>
-                  <h6>Communication and Marketing Director</h6>
+                  <h6><b>Communication and Marketing Director</b></h6>
                   <span class="post">Beek Mabior is the National Project Coordinator of South Sudan Environmental Advocates (SSEA). He is also the acting Public Relations Officer and Press Secretary for South Sudan Environmental Advocates (SSEA). Moreover, He is an independent opinion writer</span>
                   <div class="">
                     <a href="/biography1" class="btn btn-success">Read More</a>

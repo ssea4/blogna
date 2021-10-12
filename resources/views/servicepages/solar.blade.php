@@ -1,40 +1,23 @@
 
-@extends('layouts.app')
+
+  @extends('layouts.app')
 
 @section('content')
-<style>
-    .container {
-      background-color: white;
-    }
-  
-    .service__image {
-      height: 500px;
-      width: 100%;
-    }
-  
-    .links__area p a {
-      text-decoration-style: none;
-      font-size: 16px;
-      color: green;
-    }
-  
-    .links__area p a:hover {
-      text-decoration-style: none;
-    }
-  </style>
-  
-  <div class="container service__header">
+ 
+  <div >
+    
     <div class="row">
       <div class="col">
-        <img src="/static/images/solar.jpg" alt="" class="service__image">
+        <img class="card-img-top" src="images/solar.jpg" alt="" class="service__image" style="width: 100%; height:500px">
       </div>
     </div>
   </div>
-  
+  <br>
+  <br>
   <div class="container service__content">
     <div class="row">
       <div class="col-lg-9 col-md-8 col-sm-12">
-        <h1>Solar Energy</h1>
+        <h1 style="color: green">Solar Energy</h1>
         <hr>
         <p class="wow bounce">Our aim as South Sudan Environmental Advocates (SSEA) will always and forever be what’ll
           benefit the South Sudan’s current and future generations without doubt and segregation on
@@ -54,12 +37,10 @@
           environment and UN agencies that support cleaner energy and environmental protection in
           order to achieve this solar energy’s dream in South Sudan. South Sudan Environmental
           Advocates (SSEA) want cleaner energy alongside environmental protection in South Sudan.</p>
-  
-          
       </div>
   
-      <div class="col-lg-3 col-md-4 col-sm-0 links__area">
-        <h3 class="mt-3 text-success">Quick links</h3>
+      <div class="col-lg-3 col-md-4 col-sm-12 links__area">
+        <h3  style="color: green">Quick links</h3>
         <hr>
         <p><a
           href="https://ssnewsnow.com/opinion-industrialization-is-crucial-for-south-sudans-national-development/">industrialization-is-crucial-for-south-sudans-national-development</a>
@@ -91,36 +72,48 @@
       </p>
       </div>
     </div>
-  
-    <div class="row">
-      <div class="col">
-        <h3 class="text-success related__h3">Related Posts</h3>
-        <hr>
-        <div class="related">
-          <div class="related__posts">
-            <img src="images/w-body.jpg" alt="">
-            <h4 class="related__h4">Wildlife</h4>
-            <p class="related__p">
-              We as South Sudan Environmental Advocates (SSEA) love Mother Nature and
-          environmental protection just like the way we value human life. We’re like the other
-          great and golden organizations such as UNEP...
-            </p>
-            <a href="{% url 'wildlife' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
-          <div class="related__posts">
-            <img src="images/w-body.jpg" alt="">
-            <h4 class="related__h4">Water Body Management</h4>
-            <p class="related__p">
-              Water bodies protection from both solid &amp; liquid wastes pollution is vital in South Sudan. water
-          is life and all living creatures need it for...
-            </p>
-            <a href="{% url 'waterbodyprotection' %}" class="related__btn btn btn-success">Read More</a>
-            </p>
-          </div>
+  <hr>
+<br> <br>
+
+  <div class="container">
+    <h2 style="color: green; margin-right: 200px" >Related Posts</h2>
+    <hr>
+    <br>
+    <br>
+    
+  <div class="row">
+                
+    <!-- Blog post-->
+ 
+    <div class="col-lg-6">
+            <div class="card mb-3">
+                <a href="#!"><img style="width:100%; height:340px" src="images/w-body.jpg"></a>
+                <div class="card-body">
+            
+                    <h2 class="card-title">Wildlife</h2>
+                    <p class="card-text">         We as South Sudan Environmental Advocates (SSEA) love Mother Nature and
+                      environmental protection just like the way we value human life. We’re like the other
+                      great and golden organizations such as UNEP...
+                      <a href="/wildlife" class="related__btn btn btn-success">Read More</a>
+                </div>
+            </div>
         </div>
+        <div class="col-lg-6">
+          <div class="card mb-3">
+              <a href="#!"><img style="width:100%; height:340px" src="images/w-body.jpg"></a>
+              <div class="card-body">
+          
+                  <h2 class="card-title">Water Body Management</h2>
+                  <p class="card-text"> Our aim as South Sudan Environmental Advocates (SSEA) will always and forever be what’ll
+                    benefit the South Sudan’s current...</p>
+                    <a href="/waterbodyprotection"class="related__btn btn btn-success">Read More</a>
+              </div>
+          </div>
       </div>
-      </div>
-      
+   
+
   </div>
+</div>
+
   @endsection
+
