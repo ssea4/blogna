@@ -278,7 +278,7 @@ a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
           <div class="col-md-3 col-sm-6">
               <div class="our-founders">
                   <div class="pic">
-                      <img src="images/david2.jpg">
+                      <img src="images/DAVID2.jpg">
                   </div>
                   <h3 class="title">David Beek</h3>
                   <h6><b>Communication and Marketing Director</b></h6>
