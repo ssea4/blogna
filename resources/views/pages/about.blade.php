@@ -154,7 +154,7 @@
                               <div class="col-lg-3 col-md-6 col-sm-6">
                                   <div class="our-team">
                                       <div class="pic">
-                                          <img src="images/David2.jpg">
+                                          <img src="images/DAVID2.jpg">
                                       </div>
                                       <div class="team-content">
                                           <h3 class="title">David Beek</h3>
