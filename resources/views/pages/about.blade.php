@@ -187,11 +187,11 @@
                               <div class="col-lg-3 col-md-6 col-sm-6">
                                   <div class="our-team">
                                       <div class="pic">
-                                          <img src="images/gordon.jpeg">
+                                          <img src="images/dot1.jpg">
                                       </div>
                                       <div class="team-content">
-                                          <h3 class="title">Dr. Angok Gordon Kuol</h3>
-                                          <span class="post">Environmental scientist</span>
+                                          <h3 class="title">Philip Dot</h3>
+                                          <span class="post">Environmental Specialist</span>
                                       </div>
                                       <ul class="social">
                                           <li>
@@ -264,7 +264,7 @@
                                   </div>
                                   <div class="team-content">
                                       <h3 class="title">Philip Dot</h3>
-                                      <span class="post">Environmental scientist</span>
+                                      <span class="post">Environmental Specialist</span>
                                   </div>
                                   <ul class="social">
                                       <li>
