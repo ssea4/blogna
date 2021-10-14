@@ -269,7 +269,9 @@
 Bachelor’s Degree in Environmental Science from Kenyatta University and is currently pursuing
 a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
 
+
 </span>
+<br>
 <div class="">
     <a href="/biography3" class="btn btn-success">Read More</a>
 </div>
@@ -284,7 +286,8 @@ a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
                   <h6><b>Communication and Marketing Director</b></h6>
                   <span class="post">
                     David Beek is the director of communication & marketing of South Sudan Environmental Advocates. He is a researcher and environmental advocate. Moreover, He is an independent opinion writer on social, political, environmental and economic topics in South Sudan </span>
-                  <div class="">
+                  <br>
+                    <div class="">
                     <a href="/biography1" class="btn btn-success">Read More</a>
                 </div>
               </div>
