@@ -251,7 +251,7 @@
                   </div>
                   <h3 class="title">Philip Dot</h3>
                   <h6><b>Vice CEO & Country Director</b></h6>
-                  <span class="post">Philip Ayuen Dot is a South Sudanese environmental scientist and Founder of South Sudan Environmental Advocators (SSEA),BSc Environmental Science, Kenyatta University, Research Project: Valuation of Forest Traded Products December 2016.</span>
+                  <span class="post">Philip Ayuen Dot is a South Sudanese Environmental Specialist with nearly 7 years of experience of monitoring & Evaluation environmental sustainability,sustainable energy development,accident prevention policy procedures and maintaining safe working methods.Excellent technical and project management skills to handle different projects and responsibilities. Highly motivated individual who provides innovative and creatives solutions, water Quality Scientist and Nature Conservationist, Vice CEO,Country Director and Founder of South Sudan Environmental Advocates (SSEA),BSc Environmental Science, Kenyatta University, Research Project: Valuation of Forest Traded Products December 2016, Industrial Attachment Report: Climate Change Vulnerability Assessment 2015,former attache Ministry of Environment and natural Resources –government of Kenya {GOK} April 2015 – March 2018, former Volunteer work for Sustainability and Climate Change, 'Save the Elephants' Initiative – 2013- 2017, an Independent Opinion Writer on environmental issues and hardworking man with great ambition and a burning desire to excel on matters related to environmental problems in South Sudan and beyond, Mr. Dot is a visionary person who desire to make, not only a good first impression, but a lasting one in the environmental field and energy sector. He’s innovative, enthusiastic, patient, a team player and also committed to his duties. His purpose is to make change to himself to be  good environmentalist who want to make a difference in his country for the betterment of Nature as well as people. He has a desire to add value to people and make a difference in their lives. This is because when you had been helped by someone who cares for you. It is always emotionally satisfying and it help to create more friendship and trust. The relationship will always grow strongly in both the head and the heart. He also had Purpose to build effective personal growth and recognized his experience, his exposure and strong models within his circles to help. He wants to develop his potential through environmental advocacy. Mr. Dot has a strong self-esteem and determination. He’s self-independent, self-sufficient, trustworthy and supper-capable. His desire is to give up the fast life for the good life through the lottery in hopes of someday that he’ll get the chance to live the fast life he desire. He is a great lover of nature and he want to safeguard South Sudan’s biodiversity for the benefit of the current and future generations.</span>
                   <div class="">
                     <a href="/biography" class="btn btn-success">Read More</a>
                 </div>
@@ -264,7 +264,7 @@
                       <img src="images/mercy (4).jpg">
                   </div>
                   <h3 class="title">Mercy Mwende</h3>
-                  <h5><b>Director of Programs & Projects</b></h5>
+                  <h6><b>Director of Programs & Projects</b></h6>
                   <span class="post">Mercy Mwende Kyalo is a passionate environmentalist, writer and social activist. Mwende has a
 Bachelor’s Degree in Environmental Science from Kenyatta University and is currently pursuing
 a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
@@ -282,7 +282,8 @@ a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
                   </div>
                   <h3 class="title">David Beek</h3>
                   <h6><b>Communication and Marketing Director</b></h6>
-                  <span class="post">Beek Mabior is the National Project Coordinator of South Sudan Environmental Advocates (SSEA). He is also the acting Public Relations Officer and Press Secretary for South Sudan Environmental Advocates (SSEA). Moreover, He is an independent opinion writer</span>
+                  <span class="post">
+                    David Beek is the director of communication & marketing of South Sudan Environmental Advocates. He is a researcher and environmental advocate. Moreover, He is an independent opinion writer on social, political, environmental and economic topics in South Sudan </span>
                   <div class="">
                     <a href="/biography1" class="btn btn-success">Read More</a>
                 </div>

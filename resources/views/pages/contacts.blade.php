@@ -24,7 +24,7 @@
             <div class="email">
               <i class="fas fa-envelope"></i>
               <h4>Email us on</h4>
-              <p> infossea2020@mail.com</p>
+              <p> infossea2020@gmail.com</p>
               <p> sseavision2050@gmail.com</p>
             </div>
   
