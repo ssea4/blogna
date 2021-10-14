@@ -237,7 +237,7 @@
                   </div>
                <h3 class="title">Rickard Sandberg </h3>
                <h6><b>CEO & Leading Expert</b></h6>
-                  <span class="post">Rickard Sandberg was born in 1963 and has a Master Of  Civil Engineering. He has an unique knowledge and more than 34 years experience as a lead environmental manager, including sustainable development, lead manager in development urban planning,  and infrastructure</span>
+                  <span class="post">Rickard Sandberg was born in 1963 and has a Master Of  Civil Engineering. He has an unique knowledge and more than 34 years experience as a lead environmental manager, including sustainable development, lead manager in development urban planning,  and infrastructure projects.</span>
                   <div class="">
                       <a href="/biography2" class="btn btn-success">Read More</a>
                   </div>
@@ -251,7 +251,7 @@
                   </div>
                   <h3 class="title">Philip Dot</h3>
                   <h6><b>Vice CEO & Country Director</b></h6>
-                  <span class="post">Philip Ayuen Dot is a South Sudanese Environmental Specialist with nearly 7 years of experience of monitoring & Evaluation environmental sustainability,sustainable energy development,accident prevention policy procedures and maintaining safe working methods. Excellent technical and project management skills</span>
+                  <span class="post">Philip Ayuen Dot is a South Sudanese Environmental Specialist with nearly 7 years of experience of monitoring & Evaluation environmental sustainability,sustainable energy development,accident prevention policy procedures and maintaining safe working methods. Excellent technical and project management</span>
                   <div class="">
                     <a href="/biography" class="btn btn-success">Read More</a>
                 </div>
