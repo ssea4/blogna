@@ -48,7 +48,7 @@
               
             </ul>
           </li>
-          <li><a href="/posts">Blog</a></li>
+          <li><a href="">Blog</a></li>
           <li><a href="/about">About</a></li>
           <li><a href="/contacts">Contacts</a></li>
 
