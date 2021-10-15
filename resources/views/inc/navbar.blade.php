@@ -2,9 +2,9 @@
   <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top">
     <div class="container d-flex">
       <div class="contact-info mr-auto">
-        <i class="icofont-envelope"></i> <a href="mailto:contact@example.com">infossea2020@mail.com</a>
-        <i class="icofont-phone"></i> +211 925 395 114
-        <i class="icofont-google-map"></i> Juba, South Sudan
+        <i class="fas fa-envelope"></i> <a href="infossea2020@gmail.com">infossea2020@gmail.com</a>
+        <i class="fas fa-phone-square-alt"></i><a> +211 925 395 114</a>
+        <i class="fas fa-map-marker-alt"></i> Juba, South Sudan
       </div>
       <div class="social-links">
         <a href="#" class="twitter"><i class="fab fa-twitter"></i></a>

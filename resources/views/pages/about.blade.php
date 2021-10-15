@@ -284,22 +284,24 @@
       <hr>
       <div class="row">
         <div class="col">
-          <h4 class="text-success" style="margin-left:500px">Our Board Members</h4>
+          <h2 class="text-success" style="margin-left:500px">Our Board Members</h2>
           <hr>
+        </div>
+      </div>
           <div class="row">
             <div class="col">
-              <img src="images/gordon.jpeg" alt="" style="width: 400px; height:300px; object-fit: contain; float: right; margin-right: 150px;">
+              <img src="images/gordon.jpeg" alt="" style="width: 450px; height:400px; object-fit: contain; float: right; margin-right: 150px;">
             </div>
         
             <div class="col">
-              <h1>Dr. Gordon Angok Kuol</h1>
+              <h3>Dr. Gordon Angok Kuol</h3>
               <h5>President of The Board</h5>
               <p>Dr. Angok is the Board President of Environmental advocates,.............</p>
             
             </div>
           </div>
-        </div>
-      <hr>
+        
+     
       <hr>
       <div class="row">
         <div class="col">

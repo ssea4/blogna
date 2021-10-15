@@ -15,7 +15,7 @@
                 Juba, South Sudan<br><br>
                 <strong>Phone:</strong> +211918367898
                 <br>
-                <strong>Email:</strong> infossea2020@mail.com <br>
+                <strong>Email:</strong> infossea2020@gmail.com <br>
               </p>
       
               <div class="social-links mt-3">
