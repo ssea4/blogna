@@ -33,7 +33,7 @@
               <div class="card-body">
           
                 <p>
-                    David Beek is the director of communication & marketing of South Sudan Environmental Advocates. He is a researcher and environmental advocate. Moreover, He is an independent opinion writer on social, political, environmental and economic topics in South Sudan and Africa as well with different media houses both the online and print media across Africa. He is a great advocate on the protection of mother nature. He loves the conservation and protection of the beautiful biodiversity of South Sudan, Africa and the entire planet. He is a great lover of mother nature and he wants to safeguard the lovely biodiversity of South Sudan, Africa and the mother earth. <br>
+                  David Beek is a founding member of South Sudan Environmental Advocates, he is the director of communication & marketing of South Sudan Environmental Advocates. He is a researcher and environmental advocate. Moreover, He is an independent opinion writer on social, political, environmental and economic topics in South Sudan and Africa as well with different media houses both the online and print media across Africa. He is a great advocate on the protection of mother nature. He loves the conservation and protection of the beautiful biodiversity of South Sudan, Africa and the entire planet. He is a great lover of mother nature and he wants to safeguard the lovely biodiversity of South Sudan, Africa and the mother earth. <br>
                     Reach out to David Beek at,
 
                     <br>
