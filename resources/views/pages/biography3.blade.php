@@ -37,7 +37,7 @@
               <div class="card-body">
           
                 <p>
-                  Mercy Mwende Kyalo is a founding member of South Sudan Environmental Advocates, she is a passionate environmentalist, writer and social activist. Mwende has a
+                  Mercy Mwende Kyalo is a co-founder of South Sudan Environmental Advocates, she is a passionate environmentalist, writer and social activist. Mwende has a
                     Bachelor’s Degree in Environmental Science from Kenyatta University and is currently pursuing
                     a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
                     She is an experienced expert in Environmental Law and Policy, Climate Change, Environmental

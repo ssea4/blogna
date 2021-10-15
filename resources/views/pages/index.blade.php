@@ -237,7 +237,7 @@
                   </div>
                <h3 class="title">Rickard Sandberg </h3>
                <h6><b>CEO & Leading Expert</b></h6>
-                  <span class="post">Rickard Sandberg is a founding member of South Sudan Environmental Advocates, Rickard was born in 1963 and has a Master Of  Civil Engineering. He has an unique knowledge and more than 34 years experience as a lead environmental manager, including sustainable development, lead manager in development urban planning,  and infrastructure projects.</span>
+                  <span class="post">Rickard Sandberg is a co-founder of South Sudan Environmental Advocates, Rickard was born in 1963 and has a Master Of  Civil Engineering. He has an unique knowledge and more than 34 years experience as a lead environmental manager, including sustainable development, lead manager in development urban planning,  and infrastructure projects.</span>
                   <div class="">
                       <a href="/biography2" class="btn btn-success">Read More</a>
                   </div>
@@ -251,7 +251,7 @@
                   </div>
                   <h3 class="title">Philip Dot</h3>
                   <h6><b>Vice CEO & Country Director</b></h6>
-                  <span class="post">Philip Ayuen Dot is a founding member of South Sudan Environmental Advocates, he is a South Sudanese Environmental Specialist with nearly 7 years of experience of monitoring & Evaluation environmental sustainability,sustainable energy development,accident prevention policy procedures and maintaining safe working methods. Excellent technical and project management</span>
+                  <span class="post">Philip Ayuen Dot is a co-founder of South Sudan Environmental Advocates, he is a South Sudanese Environmental Specialist with nearly 7 years of experience of monitoring & Evaluation environmental sustainability,sustainable energy development,accident prevention policy procedures and maintaining safe working methods. Excellent technical and project management</span>
                   <div class="">
                     <a href="/biography" class="btn btn-success">Read More</a>
                 </div>
@@ -265,7 +265,7 @@
                   </div>
                   <h3 class="title">Mercy Mwende</h3>
                   <h6><b>Director of Programs & Projects</b></h6>
-                  <span class="post">Mercy Mwende Kyalo is a founding member of South Sudan Environmental Advocates, she is a passionate environmentalist, writer and social activist. Mwende has a
+                  <span class="post">Mercy Mwende Kyalo is a co-founder of South Sudan Environmental Advocates, she is a passionate environmentalist, writer and social activist. Mwende has a
 Bachelor’s Degree in Environmental Science from Kenyatta University and is currently pursuing
 a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
 
@@ -285,7 +285,7 @@ a Masters of Arts in Environmental Law from the University of Nairobi, Kenya.
                   <h3 class="title">David Beek</h3>
                   <h6><b>Communication and Marketing Director</b></h6>
                   <span class="post">
-                    David Beek is a founding member of South Sudan Environmental Advocates, he is the director of communication & marketing of South Sudan Environmental Advocates. He is a researcher and environmental advocate. Moreover, He is an independent opinion writer on social, political, environmental and economic topics in South Sudan </span>
+                    David Beek is a co-founder of South Sudan Environmental Advocates, he is the director of communication & marketing of South Sudan Environmental Advocates. He is a researcher and environmental advocate. Moreover, He is an independent opinion writer on social, political, environmental and economic topics in South Sudan </span>
                   <br>
                     <div class="">
                     <a href="/biography1" class="btn btn-success">Read More</a>
