@@ -273,9 +273,7 @@
                                   </ul>
                               </div>
                           </div>
-                        
-                        
-  
+                      
                   </div>
                   <!--.carousel-inner-->
               </div>
@@ -283,6 +281,24 @@
   
           </div>
       </div>
+      <hr>
+      <div class="row">
+        <div class="col">
+          <h4 class="text-success" style="margin-left:500px">Our Board Members</h4>
+          <hr>
+          <div class="row">
+            <div class="col">
+              <img src="images/gordon.jpeg" alt="" style="width: 100px; height:100px; object-fit: contain; float: right; margin-right: 150px;">
+            </div>
+        
+            <div class="col">
+              <h3>Dr. Gordon Angok Kuol</h3>
+              <span>President of The Board</span>
+              <p>Dr. Angok is the Board President of Environmental advocates,.............</p>
+            
+            </div>
+          </div>
+        </div>
       <hr>
       <div class="row">
         <div class="col">
