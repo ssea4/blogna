@@ -296,7 +296,7 @@
          
             <div class="col-lg-6">
                     <div class="card mb-3">
-                        <a href="#!"><img style="width:100%; height:240px" src="images/gordon.jpeg"></a>
+                        <a href="#!"><img style="width:50%; height:340px" src="images/gordon.jpeg"></a>
                      
                     </div>
                 </div>
