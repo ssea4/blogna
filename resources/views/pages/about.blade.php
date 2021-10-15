@@ -296,14 +296,14 @@
          
             <div class="col-lg-6">
                     <div class="card mb-3">
-                        <a href="#!"><img style="width:100%; height:440px" src="images/gordon.jpeg"></a>
+                        <a href="#!"><img style="width:100%; height:500px" src="images/gordon.jpeg"></a>
                      
                     </div>
                 </div>
                 <div class="col-lg-6">
                   <div class="card mb-3">
                       
-                      <div class="card-body">
+                      <div class="card-body" style="width:100%; height:500px" >
                         <h3>Dr. Gordon Angok Kuol</h3>
                         <h5>President of The Board</h5>
                   
