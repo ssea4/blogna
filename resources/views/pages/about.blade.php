@@ -288,17 +288,36 @@
           <hr>
         </div>
       </div>
+      
+
           <div class="row">
-            <div class="col">
-              <img src="images/gordon.jpeg" alt="" style="width: 450px; height:400px; object-fit: contain; float: right; margin-right: 150px;">
-            </div>
+                
+            <!-- Blog post-->
+         
+            <div class="col-lg-6">
+                    <div class="card mb-3">
+                        <a href="#!"><img style="width:100%; height:340px" src="images/gordon.jpeg"></a>
+                     
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="card mb-3">
+                      
+                      <div class="card-body">
+                        <h3>Dr. Gordon Angok Kuol</h3>
+                        <h5>President of The Board</h5>
+                  
+                        <p>
+                          Dr. Angok is the Board President of South Sudan Environmental advocates,...................
         
-            <div class="col">
-              <h3>Dr. Gordon Angok Kuol</h3>
-              <h5>President of The Board</h5>
-              <p>Dr. Angok is the Board President of Environmental advocates,.............</p>
-            
-            </div>
+                    
+                        </p>
+                      </div>
+                  </div>
+                  
+              </div>
+              
+        
           </div>
         
      
