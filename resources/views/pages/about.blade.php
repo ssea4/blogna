@@ -288,7 +288,7 @@
           <hr>
           <div class="row">
             <div class="col">
-              <img src="images/gordon.jpeg" alt="" style="width: 100px; height:100px; object-fit: contain; float: right; margin-right: 150px;">
+              <img src="images/gordon.jpeg" alt="" style="width: 400px; height:400px; object-fit: contain; float: right; margin-right: 150px;">
             </div>
         
             <div class="col">
@@ -300,8 +300,10 @@
           </div>
         </div>
       <hr>
+      <hr>
       <div class="row">
         <div class="col">
+          <hr>
           <h4 class="text-success" style="margin-left:500px">Our partners</h4>
           <hr>
         </div>
