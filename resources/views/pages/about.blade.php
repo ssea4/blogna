@@ -288,12 +288,12 @@
           <hr>
           <div class="row">
             <div class="col">
-              <img src="images/gordon.jpeg" alt="" style="width: 400px; height:400px; object-fit: contain; float: right; margin-right: 150px;">
+              <img src="images/gordon.jpeg" alt="" style="width: 400px; height:300px; object-fit: contain; float: right; margin-right: 150px;">
             </div>
         
             <div class="col">
-              <h3>Dr. Gordon Angok Kuol</h3>
-              <span>President of The Board</span>
+              <h1>Dr. Gordon Angok Kuol</h1>
+              <h5>President of The Board</h5>
               <p>Dr. Angok is the Board President of Environmental advocates,.............</p>
             
             </div>
@@ -303,7 +303,7 @@
       <hr>
       <div class="row">
         <div class="col">
-          <hr>
+          
           <h4 class="text-success" style="margin-left:500px">Our partners</h4>
           <hr>
         </div>
