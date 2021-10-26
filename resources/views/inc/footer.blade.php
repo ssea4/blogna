@@ -38,7 +38,7 @@
                     <a href="/">home</a>
                   </p>
                   <p>
-                    <a href="/posts">blog</a>
+                    <a href="/">blog</a>
                   </p>
                   <p>
                     <a href="/about">about</a>
