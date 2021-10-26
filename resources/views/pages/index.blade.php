@@ -5,7 +5,7 @@
 <!-- header -->
 <div class="container-fluid header">
   <div class="row">
-    <div class="col">
+    <div class="col-xl-12 col-sm-6 col-md-8">
 
       <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -228,7 +228,8 @@
 
 
   <div class="container" style="margin-bottom: 150px">
-      <h2 style="margin-left: 450px; color: green" >OUR FOUNDERS</h2>
+      <h2 style=" color: green" >OUR FOUNDERS</h2>
+      <hr style="color: green; border: 2px solid">
       <div class="row">
           <div class="col-md-3 col-sm-6">
               <div class="our-founders">
